@@ -1,4 +1,4 @@
-package encryption;
+package expert.encryption;
 
 import java.util.Arrays;
 

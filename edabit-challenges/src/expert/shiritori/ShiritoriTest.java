@@ -1,4 +1,4 @@
-package shiritori;
+package expert.shiritori;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertEquals;

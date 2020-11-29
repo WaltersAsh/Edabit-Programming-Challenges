@@ -1,4 +1,4 @@
-package encryption;
+package expert.encryption;
 
 import static org.junit.Assert.assertEquals;
 

@@ -1,4 +1,4 @@
-package shiritori;
+package expert.shiritori;
 
 import java.util.ArrayList;
 import java.util.List;
